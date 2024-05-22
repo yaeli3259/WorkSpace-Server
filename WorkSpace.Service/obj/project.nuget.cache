@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "lKoVcb+eD77AI1OOfoR1Fc9nbb1l4yVd0cNr3JZtBOUwZnlGhw9AO2fcVJr8XHsTMlvZu/aprozo3lgoFjBvuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yaeli barda\\Documents\\שנה ב\\פרויקטים\\פרקטיקום\\Practicom\\Server\\WorkSpace\\WorkSpace.Service\\WorkSpace.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yaeli barda\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\yaeli barda\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\yaeli barda\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\yaeli barda\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\yaeli barda\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
